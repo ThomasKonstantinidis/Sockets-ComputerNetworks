@@ -17,7 +17,7 @@ java Tracker IP PORT USER_NAME PASSWORD PATH_OF_SHARED_DIRECTORY
 - PORT: PEER'S PORT
 - USER_NAME: PEER'S USERNAME
 - PASSWORD: PEER'S PASSWORD
-- PATH_OF_SHARED_DIRECTORY: all files in that directory will be shared 
+- PATH_OF_SHARED_DIRECTORY: all files in that directory will be shared. 
 
 #### Architecture:
 ![](architecture.PNG)
