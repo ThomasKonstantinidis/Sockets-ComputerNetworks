@@ -4,9 +4,9 @@
 ```console
 java Tracker PATH_OF_LISTFILE
 ```
-- PATH_OF_LISTFILE: The path of the file which contains all the files in the P2P system <br>
-File Format: each line of the file contains the name of a file <br>
-file's name is unique within the system and we use it as identifier
+- PATH_OF_LISTFILE: The path of the file which contains all the files in the P2P system. <br>
+File Format: each line of the file contains the name of a file. <br>
+file's name is unique within the system and we use it as identifier.
 
 
 <ins>Peer</ins>
